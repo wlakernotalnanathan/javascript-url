@@ -1,0 +1,1 @@
+exports.getParams = (u) => u.split('?')[1] || '';
